@@ -1,5 +1,5 @@
-shell basic commands
-
-pwd-present working directory
-ls-display content list of directory
-cd-change to root directory
+Shell basic - Commands
+pwd -> Present working directory
+ls -> List of directory content
+cd -> Change to root directory of the present working directory
+ls -l -> long list of files in directory
